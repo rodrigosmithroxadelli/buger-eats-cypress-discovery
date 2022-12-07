@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Rodrigo Smith",
+        "cpf": "00000024999",
+        "email": "rodrigohoeck@gmail.com",
+        "whatsapp": "4899999999",
+        "address": {
+            "postalcode": "88060444",
+            "street": "Servidão Leandro albino da Silva",
+            "number": "180",
+            "details": "Ap 3",
+            "district": "São João do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Rodrigo Smith",
+        "cpf": "000000249aa",
+        "email": "rodrigohock@gmail.com",
+        "whatsapp": "4899999999",
+        "address": {
+            "postalcode": "88060444",
+            "street": "Servidão Leandro albino da Silva",
+            "number": "180",
+            "details": "Ap 3",
+            "district": "São João do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Rodrigo Smith",
+        "cpf": "00000024999",
+        "email": "rodrigohoeck.com.br",
+        "whatsapp": "4899999999",
+        "address": {
+            "postalcode": "88060444",
+            "street": "Servidão Leandro albino da Silva",
+            "number": "180",
+            "details": "Ap 3",
+            "district": "São João do Rio Vermelho",
+            "city_state": "Florianópolis/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
